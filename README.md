@@ -58,7 +58,8 @@ setTimeout(function () {
 console.log("b");
 ```
 
-[Enter your answer here]
+"b"
+"a"
 
 Go ahead and open up a `node` REPL, or a Chrome Snippet and run that code. Is the result what you expected?
 
